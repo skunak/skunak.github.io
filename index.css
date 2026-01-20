@@ -221,7 +221,7 @@ body:not(.user-is-tabbing) a:focus {
     color: inherit;
     border: 1px solid  var(--pink);
     font-weight: 400;
-    border-radius: 1.2rem;
+    border-radius: 0.8rem;
 }
 
 .btn:focus {
@@ -281,6 +281,7 @@ body:not(.user-is-tabbing) a:focus {
     height: 100%;
     z-index: -1;
     transition: all 0.2s cubic-bezier(1, 0.68, 0.16, 0.9);
+    border-radius: 0.8rem;
 }
 
 .link__text:focus {
@@ -494,7 +495,7 @@ body:not(.user-is-tabbing) a:focus {
 }
 
 .work__image {
-    border-radius: 1.2rem;
+    border-radius: 0.8rem;
 }
 
 @media(min-width: 901px) {
