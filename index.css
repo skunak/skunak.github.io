@@ -281,7 +281,6 @@ body:not(.user-is-tabbing) a:focus {
     height: 100%;
     z-index: -1;
     transition: all 0.2s cubic-bezier(1, 0.68, 0.16, 0.9);
-    border-radius: 0.8rem;
 }
 
 .link__text:focus {
