@@ -417,7 +417,7 @@ body:not(.user-is-tabbing) a:focus {
 .header__cmr {
     background: linear-gradient(rgba(0,0,0, .8), rgba(0,0,0, .9)), 
         url('./images/cmr_images/cmr_shot2.jpg');
-    height: 100vh;
+    height: 50vh;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
