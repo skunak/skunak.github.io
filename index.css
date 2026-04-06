@@ -482,6 +482,10 @@ body:not(.user-is-tabbing) a:focus {
     flex: 0 0 30%;
 }
 
+.work__text_alt {
+    flex: 0 0 50%;
+}
+
 .work__list {
     /* list-style-type: square; */
     list-style-position: inside;
